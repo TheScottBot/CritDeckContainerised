@@ -201,7 +201,7 @@ func HandleHelp(message *discordgo.MessageCreate, session *discordgo.Session) {
 }
 
 func main() {
-	rand.Seed(time.Now().UTC().UnixNano())
+	rand.New(rand.NewSource(time.Now().UTC().UnixNano()))
 	setupDefaults()
 
 	loadPlayerDeck()
