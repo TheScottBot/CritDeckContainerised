@@ -156,6 +156,7 @@ func messageHandler(session *discordgo.Session, message *discordgo.MessageCreate
 	}
 	HandleNewDeck(message, session)
 	HandleDraw(message, session)
+	HandleHelp(message, session)
 }
 
 func HandleNewDeck(message *discordgo.MessageCreate, session *discordgo.Session) {
@@ -179,6 +180,19 @@ func HandleDraw(message *discordgo.MessageCreate, session *discordgo.Session) {
 	if strings.HasPrefix(content, BotPrefix+"draw") {
 		card := draw()
 		response := fmt.Sprintf(card)
+		_, err := session.ChannelMessageSend(message.ChannelID, response)
+		if err != nil {
+			fmt.Println("error ", err)
+		}
+	}
+}
+
+func HandleHelp(message *discordgo.MessageCreate, session *discordgo.Session) {
+	content := strings.ToLower(message.Content)
+	if strings.HasPrefix(content, BotPrefix+"help") {
+		response := fmt.Sprintf("The bot uses the prefix ? and has 2 commands\n" +
+			"?newdeck followed by the level of the party members as an integer (with no space between[I'm lazy and coded it badly]): for example ?newdeck7\n" +
+			"?draw. Once a deck is created it will draw a random card and output it as a message")
 		_, err := session.ChannelMessageSend(message.ChannelID, response)
 		if err != nil {
 			fmt.Println("error ", err)
