@@ -164,7 +164,8 @@ func HandleNewDeck(message *discordgo.MessageCreate, session *discordgo.Session)
 	if strings.HasPrefix(content, BotPrefix+"newdeck") {
 		deckInPlay.Cards = nil
 		levelAsString := message.Content[len(BotPrefix)+len("newdeck") : len(message.Content)]
-		levelAsInt, _ := strconv.Atoi(levelAsString)
+		levelStringNoWhiteSpace := strings.ReplaceAll(levelAsString, " ", "")
+		levelAsInt, _ := strconv.Atoi(levelStringNoWhiteSpace)
 		createDeckInPlay(levelAsInt)
 
 		response := fmt.Sprintf("Crit deck created. It has: %v cards", len(deckInPlay.Cards))
@@ -191,7 +192,7 @@ func HandleHelp(message *discordgo.MessageCreate, session *discordgo.Session) {
 	content := strings.ToLower(message.Content)
 	if strings.HasPrefix(content, BotPrefix+"help") {
 		response := fmt.Sprintf("The bot uses the prefix ? and has 2 commands\n" +
-			"?newdeck followed by the level of the party members as an integer (with no space between[I'm lazy and coded it badly]): for example ?newdeck7\n" +
+			"?newdeck followed by the level of the party members as an integer: for example ?newdeck7 or ?newdeck 7\n" +
 			"?draw. Once a deck is created it will draw a random card and output it as a message")
 		_, err := session.ChannelMessageSend(message.ChannelID, response)
 		if err != nil {
