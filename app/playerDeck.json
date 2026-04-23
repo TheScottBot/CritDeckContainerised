@@ -1,0 +1,1054 @@
+{
+    "cards" : [
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Follow-up: Maximum damage, and you may make another attack against the same target"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Press the advantage: Double damage and, if this was a melee attack, you can make a DC 16 Strength (Atheletics) check to increase this to triple"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Winded: Maximum damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Bombardment: Double damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Vexing cut: Double damage, and them target must make a DC 12 Constitution saving throw. On a failed save, the target cannot take take reactions until the end of your next turn"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Between the shoulders: Maximum damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Gut punch: Double damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Guilding attack: Maximum damage and the target has disadvantage on saving throws against your spells for 1d4 rounds"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Bloodied nose: Maximum damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Neck wound: Double damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Stunning blow: Maximum damage and the target must make a DC 12 Constitution saving throw. On a failed save, the target is stunned"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Spell drain: Double damage, and the target must make a DC 12 saving throw using its spellcasting ability. On a failed save, the target is unable to cast spells on its next turn"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Terrifying slash: Maximum damage, and the target must make a DC 12 Wisdom saving throw. On a failed save, the target is frightened of you until the end of its next turn"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "With a sharp stick. Double damage, and the target must make a DC 12 Dexterity saving throw. On a failed save, the target loses an eye (DM decides which one)"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Bonk of the noggin: Maximum damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Spell storm: Double damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Brow slash: Double damage, and the target is blinded until the end of its next turn"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Right in the kisser: Maximum damage, and the target cannot speak for 1d4 rounds"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Nighty night!: Double damage, and the target must make a DC 12 Constitution saving throw. On a failed save, the target is knocked unconscious"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Magical barrage: Maximum damage, and an additional target within range is affected at half potency, or the spell's area of effect is increased by 5ft"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Nave to chops: Double damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Follow-up: Maximum damage, and you may make another attack with disadvantage against the same target"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Soften 'em up: Double damage, and the target must make a DC 12 Constitution saving throw. On a failed save, the target has disadvantage on saving throws until the end of their next turn"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Precise magic: Maximum damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slash to the ribs: Maximum damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Poke in the belly: Double damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Get back!: Maximum damage, and the target must make a DC 12 Constitution saving throw. On a faild save, the target is pushed back 5ft"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Terrifying display: Double damage, and all enemies that can see you must make a DC 12 Wisdom saving throw. On a failed save, they are frightened of you until the end of your next turn"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Sliced tendon: Double damage, and the target's speed is reduced by 1/2 until the end of the target's next turn"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "In the knee: Maximum damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Low blow: Double damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Surge of power: Maximum damage, and you can immediately cast the same spell against the same target, expending a spell slot as normal"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Sweep the legs: Maximum damage, and the target must make a DC 12 Dexterity saving throw. On a failed save, the target is knocked prone"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pinned: Double damage, and the target is pinned to the ground and becomes restrained"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Shin bash: Maximum damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Blast of power: Double damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Calf slash: Double damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Target practice: Maximum damage, and any enemy of the target within range may make an attack of opportunity with disadvantage against it"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "...And stay down: Double damage, and the target must make a DC 12 Constitution saving throw. On a failed save, the target is knocked prone"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Targeted spell: Maximum damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Low slash: Maximum damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pierced thigh: Double damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Something slipped: Maximum damage, and the targets AC is reducded by 1d4 until the end of its next turn"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Big boom: Double damage. If this attack deals force or thunder damage the tareget is pushed back 1d4 x 5ft if it is Large of smaller, taking 1d6 bludgeoning damage for every 5 ft traveled"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slow recovery: Double damage, and the target must make a DC 12 Constitution saving throw. On a failed save, the target can make one less attack on their next turn"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Shoulder jab: Maximum damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Rap on the knuckles: Double damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Resistance is futile: Maximum damage and, if the target is resistant to this damage type, it loses that resistance for 1 minute"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "You get what you pay for: Maximum damage, and you and the target must make a contested Strength check. If jthe target loses, their weapon is partially broken and deals 1/2 damage until it is repaired"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Distracting jab: Double damage, and the target must make a DC 12 Constitution saving throw. On a failed save, the target has disadvantage on their next attack"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Battered shoulder: Maximum damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Eruption: Double damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Forearm blow: Double damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Find an opening: Maximum damage, and you have advantage on your next attack against the target"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Drop it!: Double damage, and the target must make a DC 12 Strength or Dexterity saving throw. On a failed save, the target drops what they are holding (DM decides which hand, or determines randomly)"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Onslaught: Maximum damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Setback",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slashing shoulder: Maximum damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pierced Hand: Double damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Bruised joints: Maximum damage, and the target must make a DC 12 Constitution saving throw. On a failed save, the taret has disadvantage on its next melee attack"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Didn't want it anyway...: Double damage, and a non-magical item the target is holding or wearing is also affected by the damage type of this spell"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Brow slash: Triple damage, and the target is blinded for 1d4 + 1 rounds"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pierced ear: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Bashed nose: Triple damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Magical barrage: Maximum damage, and 2 additional target within range is affected at half potency, or the spell's area of effect is increased by 10ft"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Terrifying slash: Maximum damage, and the target must make a DC 14 Wisdom saving throw. On a failed save, the target is frightened of you for 2d4 rounds"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "With a sharp stick. Triple damage, and the target must make a DC 14 Dexterity saving throw. On a failed save, the target loses an eye (DM decides which one)"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Bonk of the noggin: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Spell storm: Triple damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slice to the cheek: Triple damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Right in the kisser: Maximum damage, and the target cannot speak for 2d4 rounds"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Nighty night!: Triple damage, and the target must make a DC 14 Constitution saving throw. On a failed save, the target is knocked unconscious"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Impact: Maximum damage, and roll the damage dice again"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Bloodied nose: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Neck wound: Triple damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Stunning blow: Maximum damage and the target must make a DC 14 Constitution saving throw. On a failed save, the target is stunned"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Spell drain: Triple damage, and the target must make a DC 14 saving throw using its spellcasting ability. On a failed save, the target is unable to cast spells for 1d4 + 1 rounds"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Vexing cut: Triple damage, and them target must make a DC 14 Constitution saving throw. On a failed save, the target cannot take take reactions for 2d4 rounds"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Follow-up: Maximum damage, and you may make another attack with advantage against the same target"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Soften 'em up: Triple damage, and the target must make a DC 14 Constitution saving throw. On a failed save, the target has disadvantage on saving throws for 1d4 + 1 rounds"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Guilding attack: Maximum damage and the target has disadvantage on saving throws against your spells for 1d4 rounds"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Follow-up: Maximum damage, and you may make another attack with advantage against the same target"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Press the advantage: Triple damage and, if this was a melee attack, you can make a DC 14 Strength (Atheletics) check to increase this to quadruple"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Winded: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Bombardment: Triple damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slash to the ribs: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Poke in the belly: Triple damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Get back!: Maximum damage, and the target must make a DC 14 Constitution saving throw. On a faild save, the target is pushed back 10ft"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Terrifying display: Triple damage, and all enemies that can see you must make a DC 14 Wisdom saving throw. On a failed save, they are frightened of you for 1d4 + 1 rounds"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Sliced tendon: Triple damage, and the target's speed is reduced 10 5ft until the end of the target's next turn"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "In the knee: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Low blow: Triple damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Surge of power: Maximum damage, and you can immediately cast the same spell against the any target withing range, expending a spell slot as normal"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Sweep the legs: Maximum damage, and the target must make a DC 14 Dexterity saving throw. On a failed save, the target is knocked prone"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pinned: Triple damage, and the target is pinned to the ground and becomes restrained"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Shin bash: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Blast of power: Triple damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Calf slash: Triple damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Target practice: Maximum damage, and any enemy of the target within range may make an attack of opportunity against it"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "...And stay down: Triple damage, and the target must make a DC 14 Constitution saving throw. On a failed save, the target is knocked prone"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Targeted spell: Maximum damage, and roll the damage dice again"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Low slash: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pierced thigh: Triple damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Something slipped: Maximum damage, and the targets AC is reducded by 2d4 until the end of its next turn"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Big boom: Triple damage. If this attack deals force or thunder damage the tareget is pushed back 2d4 x 5ft if it is Large of smaller, taking 1d6 bludgeoning damage for every 5 ft traveled"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slow recovery: Triple damage, and the target must make a DC 14 Constitution saving throw. On a failed save, the target can make two fewer attacks on their next turn"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Shoulder jab: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Rap on the knuckles: Triple damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Resistance is futile: Maximum damage and, if the target is resistant to this damage type, it loses that resistance for 1 minute. If the target isn't resistant, it becomes vulnerable to this damage type for 1 minute"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "You get what you pay for: Maximum damage, and you and the target must make a contested Strength check. If jthe target loses, their weapon is partially broken and deals 1/4 damage until it is repaired"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Distracting jab: Triple damage, and the target must make a DC 14 Constitution saving throw. On a failed save, the target has disadvantage on attacks for 1d4 + 1 rounds"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Battered shoulder: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Eruption: Triple damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slashing shoulder: Maximum damage, and roll the damage dice again"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pierced Hand: Triple damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Bruised joints: Maximum damage, and the target must make a DC 14 Constitution saving throw. On a failed save, the taret has disadvantage on attacks for 1d4 + 1 rounds"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Didn't want it anyway...: Triple damage, and two non-magical item the target is holding or wearing is also affected by the damage type of this spell"
+                }
+            ]
+        },
+        { 
+            "strength": "Dangerous",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Forearm blow: Triple damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Find an opening: Maximum damage, and you have advantage on attacks against the target for 1d4 + 1 rounds"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Drop it!: Triple damage, and the target must make a DC 14 Strength or Dexterity saving throw. On a failed save, the target drops what they are holding (DM decides which hand, or determines randomly)"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Onslaught: Maximum damage, and roll the damage dice again"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Brow slash: Quadruple damage, and the target is blinded for 3d4 + 2 rounds"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pierced ear: Maximum double damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Bashed nose: Quadruple damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Magical barrage: Maximum damage, and 3 additional target within range is affected at half potency, or the spell's area of effect is increased by 15ft"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Terrifying slash: Maximum damage, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target is frightened of you for 3d4 rounds"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "With a sharp stick. Quadruple damage, and the target must make a DC 16 Dexterity saving throw. On a failed save, the target loses an eye (DM decides which one)"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Bonk of the noggin: Maximum double damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Spell storm: Quadruple damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slice to the cheek: Quadruple damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Right in the kisser: Maximum damage, and the target cannot speak for 3d4 rounds"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Nighty night!: Quadruple damage, and the target must make a DC 16 Constitution saving throw. On a failed save, the target is knocked unconscious"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Impact: Maximum double damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Bloodied nose: Maximum double damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Neck wound: Quadruple damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Stunning blow: Maximum damage and the target must make a DC 16 Constitution saving throw. On a failed save, the target is stunned"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Spell drain: Quadruple damage, and the target must make a DC 16 saving throw using its spellcasting ability. On a failed save, the target is unable to cast spells for 3d4 rounds"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Vexing cut: Quadruple damage, and them target must make a DC 16 Constitution saving throw. On a failed save, the target cannot take take reactions for 3d4 rounds"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Between the shoulders: Maximum double damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Gut punch: Quadruple damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Guilding attack: Maximum damage and the target has disadvantage on saving throws against your spells for 3d4 rounds"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Follow-up: Maximum damage, and you may make another attack"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Press the advantage: Quadruple damage and, if this was a melee attack, you can make a DC 16 Strength (Atheletics) check to increase this to quintuple damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Winded: Maximum double damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Bombardment: Quadruple damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Nave to chops: Quadruple damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Follow-up: Maximum damage, and you may make another attack with advantage against the same target"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Soften 'em up: Quadruple damage, and the target must make a DC 16 Constitution saving throw. On a failed save, the target has disadvantage on saving throws for 2d4 + 2 rounds"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Precise magic: Maximum double damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slash to the ribs: Maximum double damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Poke in the belly: Quadruple damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Get back!: Maximum damage, and the target must make a DC 16 Constitution saving throw. On a faild save, the target is pushed back 15ft"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Terrifying display: Quadruple damage, and all enemies that can see you must make a DC 16 Wisdom saving throw. On a failed save, they are frightened of you for 2d4 + 2 rounds"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Sliced tendon: Quadruple damage, and the target's speed is reduced by 0ft until the end of the target's next turn"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "In the knee: Maximum double damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Low blow: Quadruple damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Surge of power: Maximum damage, and you can immediately cast the same spell against any target in range. This second attack does not expend a spell slow"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Sweep the legs: Maximum damage, and the target must make a DC 16 Dexterity saving throw. On a failed save, the target is knocked prone"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pinned: Quadruple damage, and the target is pinned to the ground and becomes restrained"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Shin bash: Maximum double damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Blast of power: Quadruple damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Calf slash: Quadruple damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Target practice: Maximum damage, and any enemy of the target within range may make an attack of opportunity against with advantage it"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "...And stay down: Quadruple damage, and the target must make a DC 16 Constitution saving throw. On a failed save, the target is knocked prone"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Targeted spell: Maximum double damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Low slash: Maximum double damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pierced thigh: Quadruple damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Something slipped: Maximum damage, and the targets AC is reducded by 3d4 until the end of its next turn"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Big boom: Quadruple damage. If this attack deals force or thunder damage the tareget is pushed back 3d4 x 5ft if it is Large of smaller, taking 1d6 bludgeoning damage for every 5 ft traveled"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slow recovery: Quadruple damage, and the target must make a DC 16 Constitution saving throw. On a failed save, the target can make three fewer attacks on their next turn"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Shoulder jab: Maximum double damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Rap on the knuckles: Quadruple damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Resistance is futile: Maximum damage and, the target becomes vulnerable to this damage tpye for 1 minute"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "You get what you pay for: Maximum damage, and you and the target must make a contested Strength check. If jthe target loses, their weapon is broken"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Distracting jab: Quadruple damage, and the target must make a DC 16 Constitution saving throw. On a failed save, the target has disadvantage on attacks for 2d4 + 2 rounds"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Battered shoulder: Maximum double damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Eruption: Quadruple damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Forearm blow: Quadruple damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Find an opening: Maximum damage, and you have advantage on attacks against the target for 2d4 + 2 rounds"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Drop it!: Quadruple damage, and the target must make a DC 16 Strength or Dexterity saving throw. On a failed save, the target drops what they are holding (DM decides which hand, or determines randomly)"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Onslaught: Maximum double damage"
+                }
+            ]
+        },
+        { 
+            "strength": "Life Threatening",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Slashed shoulder: Maximum double damage"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pierced Hand: Quadruple damage"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Bruised joints: Maximum damage, and the target must make a DC 16 Constitution saving throw. On a failed save, the taret has disadvantage on attacks for 2d4 + 2 rounds"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Didn't want it anyway...: Quadruple damage, and three items the target is holding or wearing is also affected by the damage type of this spell"
+                }
+            ]
+        },
+        { 
+            "strength": "Deadly",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Don't lose your head!: Quadruple damage and, if the damage the target takes is equal to or greater than 1/2 of their maximum hit points, they are decapitated"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Pressure point: Quadruple damage, and the target must make a DC 18 Constitution saving throw. On a failed save, the target is paralised"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Nighty night!: Quadruple damage, and if the damage the target takes is great than 1/4 of its maximum hit points, it is knocked unconscious"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Rejuvenation: Quadruple damage, and you regain a spell slot. Roll a d6 to determine the level of the spell slot"
+                }
+            ]
+        },
+        { 
+            "strength": "Deadly",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Gutted: Quadruple damage and, if the damage the target takes is equal to or greater than 1/2 of their macimum hit points, they are disemboweled"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Show through the heart: Quadruple damage, and the target loses 1/4 of their maximum hit points at the beginning of their turn for 3 rounds"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Tenderiser: Quadruple damage, and the target becomes vulnerable to bludgeoning damage for 1 minute"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Detonation: Quadruple damage, and all creatures within 15 ft of the target are also affected"
+                }
+            ]
+        },
+        { 
+            "strength": "Deadly",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "I never touched a drop!: Quadruple damage, if the damage the target takes is equal to or great than 1/4 of their maximum hit points, they lose a leg"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Chink in the armour: Quadruple damage, and if the target becomes vulnerable to piercing damage for 1 minute"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Shattered knee: Quadruple damage, and the target's speed is reduced by 1/2. Additionall, for every 5ft the target moves, it takes 1d6 damage"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Blink and you'll miss it: Quadruple damage, and the target must make a DC 18 Wisdom saving throw. On a failed save, the target is unable to see you for 1 minute"
+                }
+            ]
+        },
+        { 
+            "strength": "Deadly",
+            "effects": [
+                {
+                    "damageType": "Slashing",
+                    "value": "Disarmed: Quadruple damage, and if the damage the target takes is equal to or freater than 1/2 of their maximum hit points, they lose an arm/hand"
+                },
+                {
+                    "damageType": "Piercing",
+                    "value": "Distracting jab: Quadruple damage, and the target has disadvantage until the end of the encounter"
+                },
+                {
+                    "damageType": "Bludgeoning",
+                    "value": "Crushed hand: Quadruple damage, and the target loses use of one of its arms or hands"
+                },
+                {
+                    "damageType": "Magic",
+                    "value": "Terrifying display: Quadruple damage, and all enemies that can see you must make a DC 18 Wisdom saving throw. On a failed save, they are frightened of you. An enemy can repeat this saving throw at the end of its turn to stop being frightened"
+                }
+            ]
+        }
+    ]
+}
