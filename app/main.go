@@ -148,8 +148,8 @@ func messageHandler(session *discordgo.Session, message *discordgo.MessageCreate
 		return
 	}
 	fmt.Println(message.Content)
-	if message.Content == BotPrefix+"ping" {
-		_, err := session.ChannelMessageSend(message.ChannelID, "pong")
+	if message.Content == BotPrefix+"mrbigdice" {
+		_, err := session.ChannelMessageSend(message.ChannelID, "Just pick a number and that's your roll")
 		if err != nil {
 			fmt.Println("error ", err)
 		}
